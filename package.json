@@ -1,6 +1,6 @@
 {
   "name": "decode-google-map-polyline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to decode google map polyline using google official library.",
   "main": "index.js",
   "scripts": {
