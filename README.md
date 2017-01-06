@@ -1,6 +1,7 @@
 # decode-google-map-polyline
 
-A tool for decoding google map compressed polyline using official map utility. See more: https://developers.google.com/maps/documentation/utilities/polylinealgorithm
+A tool for decoding google map compressed polyline using official map utility. 
+See more: https://developers.google.com/maps/documentation/utilities/polylinealgorithm
 
 ## Install
 ```bash
