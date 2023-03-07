@@ -1,5 +1,5 @@
 {
-  "name": "decode-polyline",
+  "name": "@orhankhanbayov/decode-polyline",
   "version": "1.0.2",
   "description": "A library to decode google map polyline using google official library.",
   "main": "index.js",
@@ -11,8 +11,19 @@
     "map",
     "polyline",
     "decode",
-    "encode"
+    "encode",
+    "react",
+    "native",
+    "directions"
   ],
   "author": "Orhan Khanbayov",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orhankhanbayov/decode-google-map-polyline-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/orhankhanbayov/decode-google-map-polyline-js/issues"
+  },
+  "homepage": "https://github.com/orhankhanbayov/decode-google-map-polyline-js#readme"
 }
