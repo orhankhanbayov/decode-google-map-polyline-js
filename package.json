@@ -1,6 +1,6 @@
 {
   "name": "decode-polyline",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library to decode google map polyline using google official library.",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,5 @@
     "encode"
   ],
   "author": "Orhan Khanbayov",
-  "license": "ISC"
+  "license": "MIT"
 }
